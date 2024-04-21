@@ -112,6 +112,15 @@ section li {
 	padding-bottom: .35em;
 }
 
+figure {
+       margin: 0;
+}
+
+figcaption {
+      font-style: italic;
+      text-align: center;
+}
+
 /* the styles for the article */
 article {
 	padding: .5em 0;
